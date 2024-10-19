@@ -32,9 +32,8 @@ We may update this privacy policy from time to time. When we do, we will update 
 
 ### 7. Contact Information
 
-If you have any questions about this privacy policy or the extension, please contact the developer at [Your Email or GitHub Profile Link].
+If you have any questions about this privacy policy or the extension, please contact the developer at [https://github.com/E-Strada](https://github.com/E-Strada).
 
 ---
-
-[GitHub Repository Name]  
-[GitHub Profile Link]
+miniplayer-privacy-policy  
+[GitHub Profile Link](https://github.com/E-Strada)
